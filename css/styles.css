@@ -5,5 +5,5 @@ body{
     box-sizing: border-box;
 }
 ul{
-    align-items: center;
+    text-align: left;
 }
