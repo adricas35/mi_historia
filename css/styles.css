@@ -4,3 +4,6 @@ body{
     padding: 50px;
     box-sizing: border-box;
 }
+ul{
+    align-items: center;
+}
